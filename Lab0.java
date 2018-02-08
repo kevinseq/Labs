@@ -3,8 +3,8 @@
 Class: CSCI 185/504 Computer Programming II M07 (Graduate)
 Term: Spring 2018
 Lab Number: 0 (Java Basics 101)
-Professor Name: Wenjia Li
-Student Name: Kevin Sequeira
+Professor Name: 
+Student Name: 
 Date: 01/23/2018
 
 ****************/
