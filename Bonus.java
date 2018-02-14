@@ -2,7 +2,7 @@
 /****************
 Class: CSCI 185/504 Computer Programming II M07 (Graduate)
 Term: Spring 2018
-Lab Number: 0 (Java Basics 101)
+Lab Number: 4-bonus (Java Basics 101)
 Professor Name: 
 Student Name: 
 Date: 02/13/2018
