@@ -3,7 +3,7 @@
 	Initially Created by: Dr.Wenjia Li
 	Finished By: Kevin Sequeira
 	Date: 04/04/2018
-	Lab number: 8
+	Lab number: 7
 
 */
 
